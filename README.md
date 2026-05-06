@@ -80,7 +80,7 @@ Github Repo : [https://github.com/ahmed7-fouad/SurgarBanelDashboard]
 
 ## 🎥 Demo Video
 
-[https://github.com/ahmed7-fouad/SurgarBanelDashboard.git](https://drive.google.com/file/d/1Vo8ExTUiEcPbgw46taV3vQQPrs_j3epd/view?usp=sharing]
+https://github.com/ahmed7-fouad/SurgarBanelDashboard.git](https://drive.google.com/file/d/1Vo8ExTUiEcPbgw46taV3vQQPrs_j3epd/view?usp=sharing
 
 ---
 
